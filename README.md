@@ -1,8 +1,8 @@
 # Hi there, I am Nashiekha! 👋
 Junior Software Engineer | Passionate about programming and developing my coding knowledge.
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=NashiekhaWillock&theme=vision-friendly-dark&show_icons=true"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashiekhaWillock&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NashiekhaWillock&theme=vision-friendly-dark&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashiekhaWillock&layout=compact"/>
 
 &ensp;
 
