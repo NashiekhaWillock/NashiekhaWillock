@@ -26,7 +26,6 @@ I have an insatiable appetite for learning and staying abreast of the latest ind
 <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashiekhaWillock&layout=compact"/>
 
 ## 📫 Let's Connect
-- LinkedIn: [Take a look at my LinkedIn Profile](https://www.linkedin.com/in/nashiekha-willock-10b2a3194)
 
 #### Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hi! I'm always open to connecting with fellow developers.
 
