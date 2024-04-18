@@ -7,6 +7,9 @@ Throughout my academic journey and personal projects, I've gained hands-on exper
 
 I have an insatiable appetite for learning and staying abreast of the latest industry trends. I am committed to continuous improvement, constantly seeking out new tools and techniques to elevate my coding prowess.
 
+<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=NashiekhaWillock&theme=vision-friendly-dark&show_icons=true"/>
+<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashiekhaWillock&layout=compact"/>
+
 ## Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,9 +38,6 @@ Financial Times: Extracting news articles from the Financial Times to offer comp
 
 🔍 Next Steps:
 Continuously refining the trading bot project to enhance its functionality, performance, and user experience. Exploring advanced techniques in web scraping, data analysis, and natural language processing to extract deeper insights from news articles and improve trading strategies.
-
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=NashiekhaWillock&theme=vision-friendly-dark&show_icons=true"/>
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashiekhaWillock&layout=compact"/>
 
 ## 📫 Let's Connect
 
