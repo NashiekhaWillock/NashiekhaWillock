@@ -32,7 +32,7 @@ I have an insatiable appetite for learning and staying abreast of the latest ind
 ## <strong>🛠️ What I'm Working on</strong>
 ### 🤖 Trading Bot Project
 
-📈 Description: As a dedicated junior software engineer, I'm leading the development of an advanced trading bot project that combines sophisticated algorithms with artificial intelligence capabilities. The project's backend, powered by Flask and Python, seamlessly integrates with the Alpaca Trading API to access real-time market data and execute trades with precision. Additionally, the bot incorporates machine learning models trained on historical price data and sentiment analysis of news headlines to make data-driven decisions and optimize trading strategies.
+📈 Description: As a dedicated junior software engineer, I'm developing a trading bot that combines sophisticated algorithms with artificial intelligence capabilities. The project's backend, powered by Flask and Python, seamlessly integrates with the Alpaca Trading API to access real-time market data and execute trades with precision. Additionally, the bot incorporates machine learning models trained on historical price data and sentiment analysis of news headlines to make data-driven decisions and optimize trading strategies.
 
 🔧 Tech Stack:
 - Backend Development: Leveraging Flask to create RESTful APIs, the backend orchestrates seamless communication between the frontend and Alpaca Trading API. MongoDB is utilized to efficiently store and manage ticker prices, providing a robust foundation for historical data analysis and strategy optimization.
