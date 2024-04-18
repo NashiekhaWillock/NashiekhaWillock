@@ -22,7 +22,7 @@ I have an insatiable appetite for learning and staying abreast of the latest ind
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ## <strong>🛠️ What I'm Working on</strong>
-🤖 ### Trading Bot Project
+### 🤖 Trading Bot Project
 
 📈 Description: As a junior software developer, I'm actively engaged in developing a trading bot project utilizing Flask and Python for the backend, and React with Tailwind CSS for the frontend. In addition to implementing core trading functionalities, I've integrated web scraping mechanisms to fetch real-time news headlines from leading financial websites, including Yahoo Finance and Financial Times.
 
