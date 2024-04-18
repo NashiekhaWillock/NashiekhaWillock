@@ -38,7 +38,7 @@ I have an insatiable appetite for learning and staying abreast of the latest ind
 
 - Backend Development: Leveraging Flask, the backend orchestrates seamless communication between the frontend and Alpaca Trading API. Python scripts handle data processing and algorithmic trading logic.
 
-- Frontend Development: Utilizing React and Tailwind CSS, the frontend offers an intuitive and visually appealing interface for users to monitor market trends, analyze trading signals, and manage portfolios effectively.
+- Frontend Development: Utilizing React and Tailwind CSS, the frontend offers an intuitive and visually appealing interface for users.
 
 - Integration: The bot integrates with the Alpaca Trading API for accessing market data and executing trades. Additionally, it interfaces with machine learning models and sentiment analysis algorithms to enhance trading strategies based on market sentiment and historical data trends.
 
