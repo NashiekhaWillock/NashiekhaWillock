@@ -55,6 +55,7 @@ I have an insatiable appetite for learning and staying abreast of the latest ind
 🔍 Next Steps: 
 
 - Continuously refining the trading bot project to enhance functionality, performance, and user experience.
+  
 - Exploring advanced techniques in web scraping, data analysis, and natural language processing to extract deeper insights from news articles and further optimize trading strategies.
 
 ## 📫 Let's Connect
