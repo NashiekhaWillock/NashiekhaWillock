@@ -1,7 +1,7 @@
 # Hello 👋, I am Nashiekha!
-Junior Software Engineer | Passionate about programming and developing my coding knowledge.
+Software Engineer | Passionate about programming and developing my coding knowledge.
 
-Welcome to my GitHub profile! I'm thrilled to have you here. I am a motivated junior software engineer with a computer science degree. My passion lies in front-end development, where I enjoy crafting beautiful and user-friendly interfaces. However, I'm also eager to expand my skills and delve into the exciting world of full-stack development.
+Welcome to my GitHub profile! I'm thrilled to have you here. I am a motivated software engineer with a computer science degree. My passion lies in front-end development, where I enjoy crafting beautiful and user-friendly interfaces. However, I'm also eager to expand my skills and delve into the exciting world of full-stack development.
 
 Throughout my academic journey and personal projects, I've gained hands-on experience with various technologies and programming languages. I'm proficient in HTML, CSS, JavaScript, and have worked with frameworks like React. I'm also familiar with back-end technologies such as Node.js and databases like MongoDB.
 
@@ -32,7 +32,7 @@ I have an insatiable appetite for learning and staying abreast of the latest ind
 ## <strong>🛠️ What I'm Working on</strong>
 ### 🤖 Trading Bot Project
 
-📈 Description: As a dedicated junior software engineer, I'm developing a trading bot that integrates sophisticated algorithms and artificial intelligence capabilities. The project encompasses a robust backend, powered by Flask and Python, seamlessly integrating with the Alpaca Trading API for real-time market data access and precise trade execution. MongoDB efficiently manages ticker prices, laying the groundwork for in-depth historical data analysis and strategy optimization.
+📈 Description: As a dedicated software engineer, I'm developing a trading bot that integrates sophisticated algorithms and artificial intelligence capabilities. The project encompasses a robust backend, powered by Flask and Python, seamlessly integrating with the Alpaca Trading API for real-time market data access and precise trade execution. MongoDB efficiently manages ticker prices, laying the groundwork for in-depth historical data analysis and strategy optimization.
 
 🔧 Tech Stack:
 
